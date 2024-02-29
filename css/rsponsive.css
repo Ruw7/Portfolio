@@ -1,0 +1,31 @@
+@media only screen and (max-width: 1180px){
+    .main-body{
+        align-items: center;
+    }
+    .heading-1{
+        padding: 0;
+        text-align: center;
+        display: flex;
+        height: 100vh;
+    }
+    .sub-heading{
+        margin: auto;
+    }
+    .about-section{
+        width: 95%;
+        flex-direction: column;
+    }
+    .about-sec-img{
+        align-self: center;
+        display: flex;
+        margin: auto;
+    }
+    .about-sec-img img{
+        width: 95%;
+        margin: auto;
+    }
+    .about-sec-det{
+        text-align: center;
+    }
+
+}
